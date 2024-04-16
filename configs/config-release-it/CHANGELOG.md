@@ -1,5 +1,12 @@
 
 
+## [0.1.3](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/config-release-it-v0.1.2...@mono/config-release-it-v0.1.3) (2024-04-16)
+
+
+### Reverts
+
+* Revert "fix(config): remove mvm" ([763e5b6](https://github.com/GaborTorma/monorepo-semantic-releases/commit/763e5b680e07e579044a1f2e56a55047db8d83d5))
+
 ## [0.1.2](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/config-release-it-v0.1.1...@mono/config-release-it-v0.1.2) (2024-04-16)
 
 
