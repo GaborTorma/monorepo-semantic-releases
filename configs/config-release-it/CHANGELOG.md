@@ -1,5 +1,12 @@
 
 
+## [0.1.1](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/config-release-it-v0.1.0...@mono/config-release-it-v0.1.1) (2024-04-16)
+
+
+### Bug Fixes
+
+* **config:** release it remote ([542f9e5](https://github.com/GaborTorma/monorepo-semantic-releases/commit/542f9e53732fcbde49e476a5e4e9e577220a7d45))
+
 ## 0.1.0 (2023-05-01)
 
 
