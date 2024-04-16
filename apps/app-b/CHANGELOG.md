@@ -1,5 +1,14 @@
 
 
+## [0.5.0](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/app-b-v0.4.0...@mono/app-b-v0.5.0) (2024-04-16)
+
+
+### Features
+
+* **app-b:** new comment app-b ([b71586b](https://github.com/GaborTorma/monorepo-semantic-releases/commit/b71586b704ed610e64deabfb9c2e0a90642f0283))
+* **config-release-it:** released version v0.1.1 [no ci] ([fb4df8f](https://github.com/GaborTorma/monorepo-semantic-releases/commit/fb4df8fdfbb20082e1d7c6e756db88ce58e661c8))
+* **lib-b:** released version v0.4.0 [no ci] ([a8a6446](https://github.com/GaborTorma/monorepo-semantic-releases/commit/a8a6446aae28b7df381b72000e20b07f9dbc1c29))
+
 ## [0.4.0](https://github.com/b12k/monorepo-semantic-releases/compare/@mono/app-b-v0.3.0...@mono/app-b-v0.4.0) (2023-05-01)
 
 
