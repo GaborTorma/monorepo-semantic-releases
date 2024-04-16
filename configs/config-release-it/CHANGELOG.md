@@ -1,5 +1,12 @@
 
 
+## [0.1.2](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/config-release-it-v0.1.1...@mono/config-release-it-v0.1.2) (2024-04-16)
+
+
+### Bug Fixes
+
+* **config:** remove mvm ([5d77787](https://github.com/GaborTorma/monorepo-semantic-releases/commit/5d77787ed5b175606b78d2642fe1a412c70c29c6))
+
 ## [0.1.1](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/config-release-it-v0.1.0...@mono/config-release-it-v0.1.1) (2024-04-16)
 
 
