@@ -1,5 +1,12 @@
 
 
+## [0.1.4](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/config-release-it-v0.1.3...@mono/config-release-it-v0.1.4) (2024-04-17)
+
+
+### Bug Fixes
+
+* **config:** no clean dir ([de62d08](https://github.com/GaborTorma/monorepo-semantic-releases/commit/de62d08e3a6292c9f8ba6bdc9efca7e742eff0da))
+
 ## [0.1.3](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/config-release-it-v0.1.2...@mono/config-release-it-v0.1.3) (2024-04-16)
 
 
