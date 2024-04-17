@@ -15,7 +15,8 @@
     "start": "turbo start",
     "prepare": "husky install",
     "release": "turbo release --concurrency=1",
-    "mvm": "mvm-update"
+    "mvm": "mvm-update",
+    "lock": "mvm-lock"
   },
   "devDependencies": {
     "@commitlint/cli": "17.6.1",
