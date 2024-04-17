@@ -1,5 +1,7 @@
 
 
+## [0.4.3](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/lib-a-v0.4.2...@mono/lib-a-v0.4.3) (2024-04-17)
+
 ## [0.4.2](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/lib-a-v0.4.1...@mono/lib-a-v0.4.2) (2024-04-17)
 
 ## [0.4.1](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/lib-a-v0.4.0...@mono/lib-a-v0.4.1) (2024-04-16)
