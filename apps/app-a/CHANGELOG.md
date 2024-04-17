@@ -1,5 +1,12 @@
 
 
+## [0.8.0](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/app-a-v0.7.0...@mono/app-a-v0.8.0) (2024-04-17)
+
+
+### Features
+
+* **lib-a:** released version v0.4.3 [no ci] ([9e6840b](https://github.com/GaborTorma/monorepo-semantic-releases/commit/9e6840bb5d7ddbf369d14abe3b45ce503a9b740b))
+
 ## [0.7.0](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/app-a-v0.6.0...@mono/app-a-v0.7.0) (2024-04-17)
 
 
