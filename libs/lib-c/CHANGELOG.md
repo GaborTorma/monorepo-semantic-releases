@@ -1,5 +1,12 @@
 
 
+## [0.5.0](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/lib-c-v0.4.0...@mono/lib-c-v0.5.0) (2024-04-17)
+
+
+### Features
+
+* **config-release-it:** released version v0.1.4 [no ci] ([3c6338d](https://github.com/GaborTorma/monorepo-semantic-releases/commit/3c6338dc87525d42cc178e2e4722252a0e621a50))
+
 ## [0.4.0](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/lib-c-v0.3.0...@mono/lib-c-v0.4.0) (2024-04-16)
 
 
