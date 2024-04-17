@@ -1,0 +1,3 @@
+[submodule "apps/dialer"]
+	path = apps/dialer
+	url = git@github.com:GaborTorma/dialer.git
