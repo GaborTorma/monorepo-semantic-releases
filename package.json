@@ -6,6 +6,7 @@
   "workspaces": [
     "apps/app-a",
     "apps/app-b",
+    "apps/dialer",
     "libs/lib-a",
     "libs/lib-b",
     "libs/lib-c",
