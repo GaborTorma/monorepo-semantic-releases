@@ -1,5 +1,12 @@
 
 
+## [0.6.1](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/lib-b-v0.6.0...@mono/lib-b-v0.6.1) (2024-04-17)
+
+
+### Bug Fixes
+
+* **lib-b:** change for dialer [#2](https://github.com/GaborTorma/monorepo-semantic-releases/issues/2) ([c2fe578](https://github.com/GaborTorma/monorepo-semantic-releases/commit/c2fe57829f8c125d7f60d1b008191cdabe657406))
+
 ## [0.6.0](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/lib-b-v0.5.1...@mono/lib-b-v0.6.0) (2024-04-17)
 
 
