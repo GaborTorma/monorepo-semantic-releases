@@ -1,5 +1,12 @@
 
 
+## [0.6.0](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/lib-a-v0.5.0...@mono/lib-a-v0.6.0) (2024-05-23)
+
+
+### Features
+
+* **lib-a:** change [#4](https://github.com/GaborTorma/monorepo-semantic-releases/issues/4) ([95e939d](https://github.com/GaborTorma/monorepo-semantic-releases/commit/95e939dfeb09c741be15b1ca086fab19d400e646))
+
 ## [0.5.0](https://github.com/GaborTorma/monorepo-semantic-releases/compare/@mono/lib-a-v0.4.3...@mono/lib-a-v0.5.0) (2024-04-17)
 
 
